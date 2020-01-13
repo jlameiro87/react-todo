@@ -1,7 +1,7 @@
 [
     {
         "title": "Clear paper jam",
-        "status": "pending",
+        "status": "completed",
         "id": "a73c1d19-f32d-4aff-b470-cea4e792406a"
     },
     {
@@ -11,12 +11,17 @@
     },
     {
         "title": "Listen music",
-        "status": "pending",
+        "status": "completed",
         "id": "dd2df057-0af7-4a18-b7bb-d1b48dde882f"
     },
     {
         "title": "Play Dota",
         "status": "pending",
         "id": "adf2bc77-542a-44e1-be0b-ae4c7faec52d"
+    },
+    {
+        "title": "clean",
+        "status": "pending",
+        "id": "4ed2e467-e56c-4839-b760-c4516fb116fc"
     }
 ]
