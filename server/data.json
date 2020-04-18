@@ -1,27 +1,22 @@
 [
     {
+        "title": "Clear paper jam",
+        "status": "completed",
+        "id": "a73c1d19-f32d-4aff-b470-cea4e792406a"
+    },
+    {
         "title": "Ponder origins of universe",
         "status": "pending",
         "id": "2c43306e-5b44-4ff8-8753-33c35adbd06f"
     },
     {
         "title": "Listen music",
-        "status": "pending",
+        "status": "completed",
         "id": "dd2df057-0af7-4a18-b7bb-d1b48dde882f"
     },
     {
         "title": "Play Dota",
         "status": "pending",
         "id": "adf2bc77-542a-44e1-be0b-ae4c7faec52d"
-    },
-    {
-        "title": "clean",
-        "status": "pending",
-        "id": "4ed2e467-e56c-4839-b760-c4516fb116fc"
-    },
-    {
-        "title": "do the dishes",
-        "status": "pending",
-        "id": "fd9421b2-1bd6-49ac-a209-07eb5b87a213"
     }
 ]
